@@ -7,12 +7,12 @@
 // @include       https://www.zhihu.com/people/*
 // @match         https://www.zhihu.com/*
 // @require       http://libs.baidu.com/jquery/2.0.0/jquery.min.js
-// @resource      anime1_bg https://raw.githubusercontent.com/linhaikun2019/zhihu_optimize-lhk/main/img/anime1_bg.jpg
-// @resource      anime2_bg https://raw.githubusercontent.com/linhaikun2019/zhihu_optimize-lhk/main/img/anime2_bg.jpg
-// @resource      anime3_bg https://raw.githubusercontent.com/linhaikun2019/zhihu_optimize-lhk/main/img/anime3_bg.jpg
-// @resource      scenery1_bg https://raw.githubusercontent.com/linhaikun2019/zhihu_optimize-lhk/main/img/scenery1_bg.jpg
-// @resource      scenery2_bg https://raw.githubusercontent.com/linhaikun2019/zhihu_optimize-lhk/main/img/scenery2_bg.jpg
-// @resource      scenery3_bg https://raw.githubusercontent.com/linhaikun2019/zhihu_optimize-lhk/main/img/scenery3_bg.jpg
+// @resource      anime1_bg https://raw.githubusercontent.com/linhaikun2019/zhihu_optimize-lhk/master/img/anime1_bg.jpg
+// @resource      anime2_bg https://raw.githubusercontent.com/linhaikun2019/zhihu_optimize-lhk/master/img/anime2_bg.jpg
+// @resource      anime3_bg https://raw.githubusercontent.com/linhaikun2019/zhihu_optimize-lhk/master/img/anime3_bg.jpg
+// @resource      scenery1_bg https://raw.githubusercontent.com/linhaikun2019/zhihu_optimize-lhk/master/img/scenery1_bg.jpg
+// @resource      scenery2_bg https://raw.githubusercontent.com/linhaikun2019/zhihu_optimize-lhk/master/img/scenery2_bg.jpg
+// @resource      scenery3_bg https://raw.githubusercontent.com/linhaikun2019/zhihu_optimize-lhk/master/img/scenery3_bg.jpg
 // @grant         GM_addStyle
 // @grant         GM_getValue
 // @grant         GM_setValue
@@ -21,7 +21,7 @@
 // @grant         GM_getResourceText
 // @version       1.1
 // @author        @傲世盛唐
-// @icon          https://raw.githubusercontent.com/linhaikun2019/zhihu_optimize-lhk/main/img/bitbug_favicon.ico
+// @icon          https://raw.githubusercontent.com/linhaikun2019/zhihu_optimize-lhk/master/img/bitbug_favicon.ico
 // ==/UserScript==
 
 'use strict'
