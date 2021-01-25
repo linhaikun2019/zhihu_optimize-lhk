@@ -4,7 +4,7 @@
 
 ***
 
-![zhihu](https://raw.githubusercontent.com/linhaikun2019/zhihu_optimize-lhk/main/img/logo.jpg)
+![zhihu](https://raw.githubusercontent.com/linhaikun2019/zhihu_optimize-lhk/master/img/logo.jpg)
 
 ***
 
@@ -50,5 +50,5 @@
 
 最后我的几个联系渠道已经在脚本的关于页面里注明了，有任何使用问题都可以联系我，我会尽力解答并完善，最后感谢大家的支持！
 
-[![github](https://raw.githubusercontent.com/linhaikun2019/zhihu_optimize-lhk/main/img/github.png "github")](https://github.com/linhaikun2019/zhihu_optimize-lhk)[![QQ](https://raw.githubusercontent.com/linhaikun2019/zhihu_optimize-lhk/main/img/QQ.png "QQ")](http://wpa.qq.com/msgrd?v=3&uin=2735982878)[![知乎](https://raw.githubusercontent.com/linhaikun2019/zhihu_optimize-lhk/main/img/%E7%9F%A5%E4%B9%8E.png "知乎")](https://www.zhihu.com/people/lin-da-82-29-80)
+[![github](https://raw.githubusercontent.com/linhaikun2019/zhihu_optimize-lhk/master/img/github.png "github")](https://github.com/linhaikun2019/zhihu_optimize-lhk)[![QQ](https://raw.githubusercontent.com/linhaikun2019/zhihu_optimize-lhk/master/img/QQ.png "QQ")](http://wpa.qq.com/msgrd?v=3&uin=2735982878)[![知乎](https://raw.githubusercontent.com/linhaikun2019/zhihu_optimize-lhk/master/img/%E7%9F%A5%E4%B9%8E.png "知乎")](https://www.zhihu.com/people/lin-da-82-29-80)
 
