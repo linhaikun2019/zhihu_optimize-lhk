@@ -7,12 +7,12 @@
 // @include       https://www.zhihu.com/people/*
 // @match         https://www.zhihu.com/*
 // @require       http://libs.baidu.com/jquery/2.0.0/jquery.min.js
-// @resource      anime1_bg https://raw.githubusercontent.com/linhaikun2019/zhihu_optimize-lhk/master/img/anime1_bg.jpg
-// @resource      anime2_bg https://raw.githubusercontent.com/linhaikun2019/zhihu_optimize-lhk/master/img/anime2_bg.jpg
-// @resource      anime3_bg https://raw.githubusercontent.com/linhaikun2019/zhihu_optimize-lhk/master/img/anime3_bg.jpg
-// @resource      scenery1_bg https://raw.githubusercontent.com/linhaikun2019/zhihu_optimize-lhk/master/img/scenery1_bg.jpg
-// @resource      scenery2_bg https://raw.githubusercontent.com/linhaikun2019/zhihu_optimize-lhk/master/img/scenery2_bg.jpg
-// @resource      scenery3_bg https://raw.githubusercontent.com/linhaikun2019/zhihu_optimize-lhk/master/img/scenery3_bg.jpg
+// @resource      anime1_bg https://z3.ax1x.com/2021/06/20/RFK7xU.jpg
+// @resource      anime2_bg https://z3.ax1x.com/2021/06/20/RFMAZd.jpg
+// @resource      anime3_bg https://z3.ax1x.com/2021/06/20/RFMVII.jpg
+// @resource      scenery1_bg https://z3.ax1x.com/2021/06/20/RFMMQS.jpg
+// @resource      scenery2_bg https://z3.ax1x.com/2021/06/20/RFMDeJ.jpg
+// @resource      scenery3_bg https://z3.ax1x.com/2021/06/20/RFMcJx.jpg
 // @grant         GM_addStyle
 // @grant         GM_getValue
 // @grant         GM_setValue
