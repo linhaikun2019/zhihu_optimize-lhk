@@ -19,7 +19,7 @@
 // @grant         GM_deleteValue
 // @grant         GM_getResourceURL
 // @grant         GM_getResourceText
-// @version       1.1
+// @version       1.2
 // @author        @傲世盛唐
 // @icon          https://raw.githubusercontent.com/linhaikun2019/zhihu_optimize-lhk/master/img/bitbug_favicon.ico
 // ==/UserScript==
