@@ -38,7 +38,7 @@
 
 具体的本脚本使用教程请大家参考如下链接：
 
-<https://www.showdoc.com.cn/zhihuoptimize?page_id=6027027345589248>
+<https://www.kancloud.cn/linhaikun2019/zhihu_optimize-lhk/content/default.md>
 
 ***
 
